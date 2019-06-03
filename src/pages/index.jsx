@@ -17,7 +17,7 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
+import avatar from '../images/cavaness.jpg'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -63,9 +63,9 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> I'm She Cava.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>autonomie- réactivité- professionnalisme</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -103,33 +103,29 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="shelley cavaness" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+          Je veux travailler dans une entreprise avec des projets variés mais je serais ravie de finir un projet. J’aime beaucoup travailler en groupe et
+          aime tout particulièrement les échanges avec d’autres cultures. 
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+        Un développeur a la difficile mission d’être un architecte /chef d’orchestre qui va accompagner en ligne son visiteur et son client pour une interaction réussie. Il doit prendre en compte tous les paramètres techniques mais prendre également en compte l’expérience humaine.
         </AboutDesc>
       </About>
       <Contact offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:">Hi</a> or find me on other platforms:{' '}
+            <a href="https://linkedin.com/shelleycavaness">LinkedIn</a> &{' '}
+            <a href="https://www.instagram.com/shelleycavaness/">Github</a>
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          <a href="https://github.com/shelleycavaness">Github Repository</a>. Made by{' '}
+          <a href="https://medium.com/@shelleycavaness">shelleycavaness</a>.
         </Footer>
       </Contact>
     </Parallax>
