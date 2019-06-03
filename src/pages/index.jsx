@@ -118,12 +118,12 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:">Hi</a> or find me on other platforms:{' '}
-            <a href="https://linkedin.com/shelleycavaness">LinkedIn</a> &{' '}
+            <a href="www.linkedin.com/in/shelleycavanes">LinkedIn</a> &{' '}
             <a href="https://www.instagram.com/shelleycavaness/">Github</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
+          &copy; 2019 by Gatsby Starter Portfolio.{' '}
           <a href="https://github.com/shelleycavaness">Github Repository</a>. Made by{' '}
           <a href="https://medium.com/@shelleycavaness">shelleycavaness</a>.
         </Footer>
