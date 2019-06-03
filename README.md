@@ -75,8 +75,8 @@ module.exports = {
   siteTitle: 'shelley - Gatsby Starter Portfolio', // Navigation and Site Title
   siteTitleAlt: 'shelley', // Alternative Site title for SEO
   siteTitleShort: 'shelley', // short_name for manifest
-  siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
-  siteUrl: '', // Domain of your site. No trailing slash!
+  siteHeadline: ' blazginly fast websites', // Headline for schema.org JSONLD
+  siteUrl: 'https://shelleycavaness.github.io/gatbsy', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
