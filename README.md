@@ -1,18 +1,11 @@
-![]()
-
-# Gatsby Starter Portfolio: Thanks shelley
+# Gatsby Starter Portfolio: 
 
 A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
-
+Thanks to [@cara](https://cara.lekoarts.de/)
 
 Thanks to [@bradlc](https://github.com/bradlc)’s work on [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components), we can easily get the power of Tailwind without the stylesheet bloat by passing Tailwind classes into styled-components with **Babel macros** 🎉.
 
 ## Why?
-
-If you want to quickly bootstrap a design/photography portfolio or use it as a foundation for your personal site, the starters in _gatsby-starter-portfolio_ are a perfect fit for you! The project's goal is to offer minimalistic and fast websites.
-
-
-
 Check out the [Gatsby Starter Portfolio Overview](https://gatsby-starter-portfolio.netlify.com/)!
 
 ## Features
@@ -72,19 +65,19 @@ You have multiple options to configure this project.
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
 
-  siteTitle: 'shelley - Gatsby Starter Portfolio', // Navigation and Site Title
-  siteTitleAlt: 'shelley', // Alternative Site title for SEO
+  siteTitle: 'shelley\'s - Gatsby Starter Portfolio', // Navigation and Site Title
+  siteTitleAlt: 'shelley\s Gatsby', // Alternative Site title for SEO
   siteTitleShort: 'shelley', // short_name for manifest
   siteHeadline: ' blazginly fast websites', // Headline for schema.org JSONLD
   siteUrl: 'https://shelleycavaness.github.io/gatbsy', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
-  author: 'shelley', // Author for schema.org JSONLD
+  author: 'shelley with help from Cara template', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@shelley', // Twitter Username
-  ogSiteName: 'shelley', // Facebook Site Name
+  userTwitter: '', // Twitter Username
+  ogSiteName: '', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
 
   // Manifest and Progress color

@@ -119,13 +119,12 @@ const Index = () => (
           <ContactText>
             Say <a href="mailto:">Hi</a> or find me on other platforms:{' '}
             <a href="https://www.linkedin.com/in/shelleycavaness">LinkedIn</a> &{' '}
-            <a href="https://www.twitter.com/shelleycavaness/">twitter</a>
+            <a href="https://medium.com/@shelleycavaness">Medium</a>
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 by Gatsby Starter Portfolio.{' '}
-          <a href="https://github.com/shelleycavaness">Github Repository</a>. Made by{' '}
-          <a href="https://medium.com/@shelleycavaness">medium blog</a>.
+          <a href="https://github.com/shelleycavaness">Github Repository</a>.
         </Footer>
       </Contact>
     </Parallax>
