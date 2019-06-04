@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'shelley', // Alternative Site title for SEO
   siteTitleShort: 'shelley', // short_name for manifest
   siteHeadline: 'shelley cavaness', // Headline for schema.org JSONLD
-  siteUrl: 'https://', // Domain of your site. No trailing slash!
+  siteUrl: 'https://shelleycavaness.github.io/gatbsy/', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',

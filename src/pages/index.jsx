@@ -63,40 +63,40 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm She Cava.
+          Hello, <br /> I'm Shelley Cavaness
         </BigTitle>
-        <Subtitle>autonomie- réactivité- professionnalisme</Subtitle>
+        <Subtitle>je cherche une alternance</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
-            title="Freiheit"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="Les Crapauds Fous"
+            link="https://crapaud-fou.org/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            This project was my entry to coding in a group.
           </ProjectCard>
           <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="my fist collaborative web project"
+            link="http://www.sciencespo.fr/mass-violence-war-massacre-resistance/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            My first collaborative project in 2007.
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="curious about my cv?"
+            link="https://www.linkedin.com/in/shelleycavaness"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            Or you can read some of my blogs on medium.
           </ProjectCard>
           <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="my github student projects"
+            link="#"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            download my cv above.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -106,7 +106,7 @@ const Index = () => (
           <Avatar src={avatar} alt="shelley cavaness" />
           <AboutSub>
           Je veux travailler dans une entreprise avec des projets variés mais je serais ravie de finir un projet. J’aime beaucoup travailler en groupe et
-          aime tout particulièrement les échanges avec d’autres cultures. 
+          aime tout particulièrement les échanges avec d’autres cultures. les mots clés a retenir:autonomie- réactivité- professionnalisme
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -118,14 +118,14 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:">Hi</a> or find me on other platforms:{' '}
-            <a href="www.linkedin.com/in/shelleycavanes">LinkedIn</a> &{' '}
-            <a href="https://www.instagram.com/shelleycavaness/">Github</a>
+            <a href="https://www.linkedin.com/in/shelleycavaness">LinkedIn</a> &{' '}
+            <a href="https://www.twitter.com/shelleycavaness/">twitter</a>
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 by Gatsby Starter Portfolio.{' '}
           <a href="https://github.com/shelleycavaness">Github Repository</a>. Made by{' '}
-          <a href="https://medium.com/@shelleycavaness">shelleycavaness</a>.
+          <a href="https://medium.com/@shelleycavaness">medium blog</a>.
         </Footer>
       </Contact>
     </Parallax>
