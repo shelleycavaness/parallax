@@ -78,25 +78,25 @@ const Index = () => (
             This project was my entry to coding in a group.
           </ProjectCard>
           <ProjectCard
-            title="my fist collaborative web project"
+            title="my 1st project manager experience"
             link="http://www.sciencespo.fr/mass-violence-war-massacre-resistance/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            My first collaborative project in 2007.
+            My first collaborative project in 2007
           </ProjectCard>
           <ProjectCard
-            title="curious about my cv?"
-            link="https://www.linkedin.com/in/shelleycavaness"
+            title="Read my blogs on medium."
+            link="https://medium.com/@shelleycavaness"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Or you can read some of my blogs on medium.
+          curious about me? or what I write about?
           </ProjectCard>
           <ProjectCard
-            title="my github student projects"
-            link="#"
+            title="Look at student projects"
+            link="https://github.com/shelleycavaness"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            download my cv above.
+            Interested in seeing what I have been exploring?
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -106,7 +106,7 @@ const Index = () => (
           <Avatar src={avatar} alt="shelley cavaness" />
           <AboutSub>
           Je veux travailler dans une entreprise avec des projets variés mais je serais ravie de finir un projet. J’aime beaucoup travailler en groupe et
-          aime tout particulièrement les échanges avec d’autres cultures. les mots clés a retenir:autonomie- réactivité- professionnalisme
+          aime tout particulièrement les échanges avec d’autres cultures. les mots clés à retenir : autonomie- réactivité- professionnalisme
           </AboutSub>
         </AboutHero>
         <AboutDesc>
