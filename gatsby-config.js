@@ -7,7 +7,7 @@ module.exports = {
   /* General Information */
   siteMetadata: {
     pathPrefix: '/gatsby',
-    //siteUrl: config.siteUrl + pathPrefix,
+    siteUrl: 'https://shelleycavaness.github.io'///config.siteUrl + pathPrefix,
   },
   /* Plugins */
   plugins: [
