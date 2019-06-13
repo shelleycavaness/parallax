@@ -6,7 +6,7 @@ const pathPrefix = '/gatsby' //this is not the right url i think
 module.exports = {
   /* General Information */
   siteMetadata: {
-    pathPrefix: '/gatsby',
+    pathPrefix: '/',
     siteUrl: 'https://shelleycavaness.github.io'///config.siteUrl + pathPrefix,
   },
   /* Plugins */

@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Shelley Cavaness
+          Hello, <br /> I'm Shelley Cavaness <br /> And I love JavaScript
         </BigTitle>
         <Subtitle>je cherche une alternance</Subtitle>
       </Hero>
@@ -89,7 +89,7 @@ const Index = () => (
             link="https://medium.com/@shelleycavaness"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-          curious about me? or what I write about?
+          Curious about me? or what I write about?
           </ProjectCard>
           <ProjectCard
             title="Look at student projects"
