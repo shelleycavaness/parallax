@@ -6,7 +6,7 @@ const config = require('./config/website')
 module.exports = {
   /* General Information */
   siteMetadata: {
-    siteUrl: 'https://shelleycavaness.github.io'///config.siteUrl + pathPrefix,
+    siteUrl: 'https://shelleycavaness.github.io/gatsby'///config.siteUrl + pathPrefix,
   },
   pathPrefix: '/gatsby',
   /* Plugins */
