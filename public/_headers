@@ -1,0 +1,37 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-04ffb4dfaf9656723901.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.18be1ebaf4d70b505523.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-f406ea1cb7495116418b.js
+  Cache-Control: public, max-age=31536000, immutable
+/6-af1566fbecac1eae0ddb.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-jsx-5ba358ad8d4916fbf22d.js
+  Cache-Control: public, max-age=31536000, immutable
+/pages-manifest-9ce278ac42f895af6633.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-59c1a165c8daab1ab31f.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-ea3666eb4506274b2b86.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-59c1a165c8daab1ab31f.js>; rel=preload; as=script
+  Link: </app-ea3666eb4506274b2b86.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-04ffb4dfaf9656723901.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-59c1a165c8daab1ab31f.js>; rel=preload; as=script
+  Link: </app-ea3666eb4506274b2b86.js>; rel=preload; as=script
+  Link: </styles-f406ea1cb7495116418b.js>; rel=preload; as=script
+  Link: </6-af1566fbecac1eae0ddb.js>; rel=preload; as=script
+  Link: </component---src-pages-index-jsx-5ba358ad8d4916fbf22d.js>; rel=preload; as=script
