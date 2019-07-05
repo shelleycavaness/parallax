@@ -1,12 +1,11 @@
 const config = require('./config/website')
 
 //const pathPrefix = config.pathPrefix === '/' ? '' : config.pathPrefix
-const pathPrefix = '/gatsby' //this is not the right url i think
+//const pathPrefix = '/gatsby' //this is not the right url i think
 
 module.exports = {
   /* General Information */
   siteMetadata: {
-    pathPrefix: '/gatsby/',
     siteUrl: 'https://shelleycavaness.github.io'///config.siteUrl + pathPrefix,
   },
   /* Plugins */
