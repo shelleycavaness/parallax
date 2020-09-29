@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Shelley Cavaness <br /> And I love JavaScript
         </BigTitle>
-        <Subtitle>je cherche une alternance</Subtitle>
+        <Subtitle>and frontend development. </Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -75,28 +75,28 @@ const Index = () => (
             link="https://crapaud-fou.org/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project was my entry to coding in a group.
+            This project was my entry to coding on a team.
           </ProjectCard>
           <ProjectCard
             title="my 1st project manager experience"
             link="http://www.sciencespo.fr/mass-violence-war-massacre-resistance/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            My first collaborative project in 2007
+            My first collaborative web project in 2007.
           </ProjectCard>
           <ProjectCard
             title="Read my blogs on medium."
             link="https://medium.com/@shelleycavaness"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-          Curious about me? or what I write about?
+          Curious about me? 
           </ProjectCard>
           <ProjectCard
             title="Look at student projects"
             link="https://github.com/shelleycavaness"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Interested in seeing what I have been exploring?
+            Seeing what I have been exploring? or my sandboxes...
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -123,7 +123,7 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio.{' '}
+          &copy; 2020 by Gatsby Starter.{' '}
           <a href="https://github.com/shelleycavaness">Github Repository</a>.
         </Footer>
       </Contact>

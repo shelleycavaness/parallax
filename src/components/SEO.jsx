@@ -39,7 +39,7 @@ const Head = props => {
       '@type': 'Person',
       name: config.author,
     },
-    copyrightYear: '2019',
+    copyrightYear: '2020',
     creator: {
       '@type': 'Person',
       name: config.author,
@@ -48,7 +48,7 @@ const Head = props => {
       '@type': 'Person',
       name: config.author,
     },
-    datePublished: '2019-01-17',
+    datePublished: '2020-9-17',
     dateModified: buildTime,
     image: {
       '@type': 'ImageObject',
