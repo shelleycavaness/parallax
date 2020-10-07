@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: 'https://shelleycavaness.github.io/shellyeah'///config.siteUrl + pathPrefix,
   },
-  pathPrefix: '/gatsby',
+  pathPrefix: '/shellyeah',
   /* Plugins */
   plugins: [
     'gatsby-plugin-react-helmet',
