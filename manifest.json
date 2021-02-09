@@ -1,5 +1,6 @@
 {
   "main.js": "render-page.js",
   "main.js.map": "render-page.js.map",
-  "static/cavaness.jpg": "static/cavaness-3d79abb04736cb7e90246a89efae24d1.jpg"
+  "static/cavaness.jpg": "static/cavaness-3d79abb04736cb7e90246a89efae24d1.jpg",
+  "static/cavaness.png": "static/cavaness-663efe9ae4c62b404e82258734b935b0.png"
 }
